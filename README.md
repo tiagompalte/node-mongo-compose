@@ -3,4 +3,4 @@ Projeto como parte de fixação do conteúdo de docker compose do curso [Docker:
 ## Para rodar execute
 `docker-compose up`
 ## Para acessar
-- Abra qualquer navegar e acesse: http://localhost
+- Abra qualquer navegador e acesse: http://localhost
